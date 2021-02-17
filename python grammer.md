@@ -69,9 +69,11 @@ else 조건식 내부
 
     for i in range(시작, 종료, 건너뛰기):
         #반복할 코드
-
-    while 참일
-
+for 반복문 : 시작 ~ 종료가 될 때까지 건너뛰기 간격만큼 i 값을 변화시키면서 반복한다.
+    
+    while 조건 :
+        #반복할 코드
+while 반복문
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM3MjEzMDIsOTcwNzMyMzQ1XX0=
+eyJoaXN0b3J5IjpbLTE3NTU5NjIzNDMsOTcwNzMyMzQ1XX0=
 -->
