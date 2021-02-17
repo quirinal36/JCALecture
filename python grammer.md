@@ -73,7 +73,7 @@ for 반복문 : 시작 ~ 종료가 될 때까지 건너뛰기 간격만큼 i 값
     
     while 조건 :
         #반복할 코드
-while 반복문
+while 반복문 : 조건이 '참' 일동안 반복한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU5NjIzNDMsOTcwNzMyMzQ1XX0=
+eyJoaXN0b3J5IjpbLTQ0ODk5MjY5OSw5NzA3MzIzNDVdfQ==
 -->
