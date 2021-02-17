@@ -66,6 +66,12 @@ else 조건식 내부
 반복문 내부
 
 ## 반복문
+
+    for i in range(시작, 종료, 건너뛰기):
+        #반복할 코드
+
+    while 참일
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNzQxNjQ0LDk3MDczMjM0NV19
+eyJoaXN0b3J5IjpbLTE0ODM3MjEzMDIsOTcwNzMyMzQ1XX0=
 -->
